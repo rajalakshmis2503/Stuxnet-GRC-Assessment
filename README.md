@@ -11,4 +11,4 @@ Using the Stuxnet attack chain as a case study, I developed a risk assessment, m
 
 The success of Stuxnet cannot be attributed to advanced malware alone. The attack was enabled by a combination of weak governance, inadequate monitoring, poor access management, ineffective change control, and limited visibility into critical systems.
 
-**Technologies evolve. Control failures persist.**
+**More than a decade later, Stuxnet remains relevant not because of the malware itself, but because the governance and control failures it exposed continue to challenge organizations today..**
